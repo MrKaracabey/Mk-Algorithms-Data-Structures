@@ -1,4 +1,6 @@
-<p align="center"><img alt="GopherAlgoDataStructuresRepo" src="https://raw.githubusercontent.com/Mustafa-Karacabey/golang-algorithms-dataStructures/master/assets/images/Gophe.png" width="360"></p>
+<p align="center"><img alt="GopherAlgoDataStructuresRepo" src="https://raw.githubusercontent.com/MrKaracabey/
+Mk-Algorithms-Data-Structures
+/master/assets/images/Gophe.png" width="360"></p>
 
 <p align="center"><b>Mustafa KARACABEY </b></p>
 
@@ -117,12 +119,14 @@ motivate me to continue working on the project.
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Mustafa-Karacabey">
-        <img src="https://raw.githubusercontent.com/Mustafa-Karacabey/golang-algorithms-dataStructures/master/assets/images/Gophe.png" width="100px">
+        <img src="https://raw.githubusercontent.com/MrKaracabey/
+Mk-Algorithms-Data-Structures
+/master/assets/images/Gophe.png" width="100px">
         <br />
         <sub>
         <b>Mustafa KARACABEY</b></sub>
-        </a><br /> <a href="https://github.com/Mustafa-Karacabey" title="Follow Me">🧑</a>
-        <a href="https://github.com/Mustafa-Karacabey/golang-algorithms-dataStructures/commits?author=Mustafa-Karacabey" title="Code">💻</a>
+        </a><br /> <a href="https://github.com/MrKaracabey" title="Follow Me">🧑</a>
+        <a href="https://github.com/MrKaracabey/Mk-Algorithms-Data-Structures /commits?author=MrKaracabey" title="Code">💻</a>
     </td>
   </tr>
 
