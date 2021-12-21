@@ -59,7 +59,7 @@ func (s *Stack) peek() int {
 	return s.data[s.top]
 }
 
-func main() {
+func stackArray() {
 	//0 Value Means Free in Memory according to this implementation :)
 	myStack := Stack{top: -1}
 
