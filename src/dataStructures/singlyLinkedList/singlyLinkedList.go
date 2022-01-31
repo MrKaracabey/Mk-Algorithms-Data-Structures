@@ -53,7 +53,6 @@ func (l *LinkedList) insertHeadElement(data int) {
 		l.len++
 		return
 	}
-
 	temp := l.head
 
 	myHeadNode := Node{
